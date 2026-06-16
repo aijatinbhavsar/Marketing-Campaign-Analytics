@@ -1,0 +1,5 @@
+pandas>=1.5.0
+nltk>=3.8.0
+sqlalchemy>=2.0.0
+pyodbc>=4.0.39
+openpyxl>=3.1.0
